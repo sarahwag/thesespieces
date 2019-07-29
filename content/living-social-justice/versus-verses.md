@@ -3,7 +3,9 @@ title: "Versus Verses"
 weight: 2
 ---
 
-What is living social justice, if it's not social justice dogma? Here are some conclusions we've come to (maybe you landed in similar places during your Wittenberg convo):
+What is living social justice, as opposed to social justice dogma?
+
+At the risk of being _too_ dichotomous, here are some conclusions we're wrestling with (maybe you landed in similar places during your Wittenberg convo):
 
 > Social justice dogma is certain; **living social justice is being unsure.**
 

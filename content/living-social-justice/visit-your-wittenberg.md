@@ -6,7 +6,7 @@ weight: 1
 You now have <del>9</del>5 theses (and one grand conclusion) that you can take to your Wittenberg for disputation. And we invite you to do that before you finish up this Module:
 
 ```
-Talk through the individual theses from this Module with your accountabilibuddy, set up a dinner with some social justice friends, start an email thread with close colleagues -- whatever your Wittenberg looks like. Invite dispute. Welcome it! Let's figure out why and how we're wrong here.
+Talk through the individual theses from this Module with your accountabilibuddy, set up a dinner with some social-justice-oriented friends, start an email thread with close colleagues -- whatever your Wittenberg looks like. Invite dispute. Welcome it! Let's figure out why and how we're wrong here.
 ```
 
 Here they are all together for your convenience:
