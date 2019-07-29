@@ -5,7 +5,7 @@ reply: "https://hues.typeform.com/to/HOpU9R"
 typeform: true
 ---
 
-Grab your hammer and a few nails. We're going to be drafting up our 95 theses, or -- if we wanted to be fancy -- our Disputation on the Power of Social Justice Dogma.
+Grab your hammer and a few nails. We're going to be drafting up our <del>9</del>5 theses, or -- if we wanted to be fancy -- our Disputation on the Power of Social Justice Dogma.
 
 And after this Module, we're going to be finding some doors to nail it to.
 

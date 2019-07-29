@@ -7,4 +7,6 @@ When Sam Killermann started writing about ["social justice dogma" in 2017](https
 
 In the two years since, Sam, and the other facilitators and contributors to Social Justice, Minus Dogma, have been exploring what those 95 theses might be. This course has, thus far, paralleled that process.
 
-In this Module, we'll be continuing in that direction. We're going to try to figure out what we'd nail to the door of our hypothetical "Church."
+In this Module we'll be continuing in that direction. It's going to feel different from the other Modules so far, with fewer materials and less fieldwork. Instead, we're going to try to figure out what we'd nail to the door of our hypothetical "Church."
+
+We're going to propose a few ideas that might add up to **social justice, minus dogma.**

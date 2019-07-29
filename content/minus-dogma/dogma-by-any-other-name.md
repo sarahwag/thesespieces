@@ -11,4 +11,4 @@ People also refer to SJD with some play on the word "Woke" (e.g., "Woke-ism", "W
 
 Anyone else who is talking about that -- regardless of what name they use -- is talking about what we're talking about. We don't need to be nit-picky about what we call it.
 
-[A dogma by any other name](https://en.wikipedia.org/wiki/A_rose_by_any_other_name_would_smell_as_sweet) would still smell.
+After all, [a dogma by any other name](https://en.wikipedia.org/wiki/A_rose_by_any_other_name_would_smell_as_sweet) would still smell.

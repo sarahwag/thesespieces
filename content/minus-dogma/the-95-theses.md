@@ -3,7 +3,7 @@ title: "The 95 Theses"
 weight: 2
 ---
 
-Reverend Martin Luther, objecting to the church's selling of indulgences, nailed his [95 theses](https://www.luther.de/en/95thesen.html) to the door of the Castle Church on October 31, 1517 -- or [so the legend goes](https://www.luther.de/en/legenden/tanschl.html).
+Reverend Martin Luther, objecting to the church's selling of indulgences, nailed his [95 Theses](https://www.luther.de/en/95thesen.html) to the door of the Castle Church on October 31, 1517 -- or [so the legend goes](https://www.luther.de/en/legenden/tanschl.html).
 
 His "Disputation on the Power of Indulgences" began:
 
