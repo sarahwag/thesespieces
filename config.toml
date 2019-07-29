@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://thesespieces.course.sjmd.space"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 title = "Module 5"
@@ -6,7 +6,7 @@ theme = "teach"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-	editURL = "https://github.com/sjmd/acolytes/tree/master/content/"
+	editURL = "https://github.com/sjmd/thesespieces/tree/master/content/"
 	helpURL = "https://sjmd.space/help"
 	description = "Social Justice, Minus Dogma Course + Community"
 	author = "SJMD"
