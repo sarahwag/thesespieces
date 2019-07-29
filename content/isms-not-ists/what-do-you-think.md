@@ -1,6 +1,6 @@
 ---
 title: "What do you think?"
-weight: 2
+weight: 3
 discourse: "https://community.sjmd.space/t/isms-not-ists"
 ---
 
