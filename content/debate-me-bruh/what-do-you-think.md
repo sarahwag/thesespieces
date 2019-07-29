@@ -1,7 +1,7 @@
 ---
 title: "What do you think?"
 weight: 5
-discourse: "https://community.sjmd.space/t/isms-not-ists"
+discourse: "https://community.sjmd.space/t/debate-me-bruh"
 ---
 
 Does this thesis make sense to you? Seem to hold some truth?
