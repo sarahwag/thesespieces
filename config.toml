@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Module 5"
 theme = "teach"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+relativeURLs = true
 
 [params]
 	editURL = "https://github.com/sjmd/thesespieces/tree/master/content/"
