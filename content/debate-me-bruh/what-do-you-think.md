@@ -10,4 +10,4 @@ Does this thesis make sense to you? Seem to hold some truth?
 
 Is there another foundation we need to build instead? Something about this you take issue with?
 
-<small>You can let us know in [the SJMD Community](https://community.sjmd.space/t/isms-not-ists) or by email (team@sjmd.space).</small>
+<small>You can let us know in [the SJMD Community](https://community.sjmd.space/t/debate-me-bruh) or by email (team@sjmd.space).</small>
