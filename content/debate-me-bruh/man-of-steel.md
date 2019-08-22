@@ -1,7 +1,7 @@
 ---
 title: "Man of Steel"
 weight: 3
-discourse: "https://community.sjmd.space/t/debate-me-bruh"
+# discourse: "https://community.sjmd.space/t/debate-me-bruh"
 ---
 
 Another thing we think will be helpful for us is the idea of "Steel-manning" (as opposed to ["Straw-manning"](https://en.wikipedia.org/wiki/Straw_man), something that's all too tempting in debates about social justice).

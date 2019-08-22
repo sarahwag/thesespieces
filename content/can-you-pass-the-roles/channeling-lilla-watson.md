@@ -1,7 +1,7 @@
 ---
 title: "Channeling Lilla Watson"
 weight: 1
-discourse: "https://community.sjmd.space/t/can-you-pass-the-roles"
+# discourse: "https://community.sjmd.space/t/can-you-pass-the-roles"
 ---
 
 The first part of this thesis can be pretty well summed up in this famous quote spoken by [Lilla Watson](https://en.wikipedia.org/wiki/Lilla_Watson), an idea that originated from an aboriginal activists group in Queensland in the 1970s:

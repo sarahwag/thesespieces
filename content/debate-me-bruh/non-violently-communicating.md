@@ -1,7 +1,7 @@
 ---
 title: "Non-Violently Communicating"
 weight: 2
-discourse: "https://community.sjmd.space/t/debate-me-bruh"
+# discourse: "https://community.sjmd.space/t/debate-me-bruh"
 ---
 
 Nonviolent Communication is a system for finding the needs hidden behind disagreements, and discovering amenable paths forward.

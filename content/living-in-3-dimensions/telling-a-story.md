@@ -1,7 +1,7 @@
 ---
 title: "Telling a Story"
 weight: 2
-discourse: "https://community.sjmd.space/t/living-in-3-dimensions"
+# discourse: "https://community.sjmd.space/t/living-in-3-dimensions"
 ---
 
 When we propose an idea, or work together in an effort to take a step closer toward social justice, we are telling a story -- proposing an alternative to the story we're all currently living in.

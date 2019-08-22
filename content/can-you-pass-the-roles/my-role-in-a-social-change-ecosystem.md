@@ -1,7 +1,7 @@
 ---
 title: "My Role in a Social Change Ecosystem"
 weight: 2
-discourse: "https://community.sjmd.space/t/can-you-pass-the-roles"
+# discourse: "https://community.sjmd.space/t/can-you-pass-the-roles"
 ---
 
 We need everyone involved, but everyone shouldn't be involved in the same way. We all have different roles to play.

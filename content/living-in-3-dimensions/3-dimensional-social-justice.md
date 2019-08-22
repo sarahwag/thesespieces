@@ -1,7 +1,7 @@
 ---
 title: "3-Dimensional Social Justice"
 weight: 1
-discourse: "https://community.sjmd.space/t/living-in-3-dimensions"
+# discourse: "https://community.sjmd.space/t/living-in-3-dimensions"
 ---
 
 Here's another short article from Sam, which introduces this idea of "3D social justice":

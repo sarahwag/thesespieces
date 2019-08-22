@@ -1,7 +1,7 @@
 ---
 title: "What do you think?"
 weight: 4
-discourse: "https://community.sjmd.space/t/needle-pointing"
+# discourse: "https://community.sjmd.space/t/needle-pointing"
 ---
 
 Does this thesis make sense to you? Seem to hold some truth?
@@ -9,3 +9,5 @@ Does this thesis make sense to you? Seem to hold some truth?
 >Social justice is both a means and an end, and any action we take in its name should be guided by a compass pointing toward equity.
 
 Is there another foundation we need to build instead? Something about this you take issue with?
+
+<small>You can let us know in [the SJMD Community](https://community.sjmd.space/t/needle-pointing), our shared equivalent of Luther's Wittenberg, or by email (team@sjmd.space).</small>

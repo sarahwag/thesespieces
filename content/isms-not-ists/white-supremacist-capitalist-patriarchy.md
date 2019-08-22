@@ -1,7 +1,7 @@
 ---
 title: "White Supremacist Capitalist Patriarchy"
 weight: 2
-discourse: "https://community.sjmd.space/t/isms-not-ists"
+# discourse: "https://community.sjmd.space/t/isms-not-ists"
 ---
 
 bell hooks has helped a lot of us think about -- and _speak directly about_ -- the systems that work together to enact oppression.

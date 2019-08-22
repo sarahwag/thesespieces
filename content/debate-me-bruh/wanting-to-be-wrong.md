@@ -1,7 +1,7 @@
 ---
 title: "Wanting to Be Wrong"
 weight: 4
-discourse: "https://community.sjmd.space/t/debate-me-bruh"
+# discourse: "https://community.sjmd.space/t/debate-me-bruh"
 ---
 
 Most debates, arguments, etc. are characterized by two people who think they're right, telling the other person why they're wrong.
