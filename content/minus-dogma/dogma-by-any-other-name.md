@@ -5,7 +5,7 @@ weight: 4
 
 While "Social Justice Dogma" is the phrase we've been using (as coined by Sam in that linked post), this same idea goes by many other names. For example, read this blog post by Frances Lee about the "Church of Social Justice":
 
-- {{% icon read %}} [BLOG: Excommunicate Me from the Church of Social Justice / Frances Lee](https://www.catalystwedco.com/blog/2017/7/10/kin-aesthetics-excommunicate-me-from-the-church-of-social-justice)
+- {{% icon read %}} [BLOG: Excommunicate Me from the Church of Social Justice / Frances Lee](https://www.catalystwedco.com/blog/2017/7/10/kin-aesthetics-excommunicate-me-from-the-church-of-social-justice) <- This link is broken. The article seems to be available at Autostraddle though: https://www.autostraddle.com/kin-aesthetics-excommunicate-me-from-the-church-of-social-justice-386640/
 
 People also refer to SJD with some play on the word "Woke" (e.g., "Woke-ism", "Woke Olympics"), or in a variety of other ways. In this course, **we're using SJD as a shorthand to refer to a special kind of fundamentalism that is prevalent within the social justice movement.**
 
